@@ -23,9 +23,9 @@ APP:  car_fsm, door <br>
 
 ### Youssef Nasser Farouk
 
-HAL: hoist.c<br>
-APP: safety.c, motion.c<br>
-Extra: Hardware design and SimulIDE Simulation<br>
+HAL: Hoist.c<br>
+APP: Safety.c, Motion.c<br>
+Extra: Hardware Design and SimulIDE Simulation<br>
 
 
 ## Tasks brief
